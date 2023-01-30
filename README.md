@@ -1,8 +1,7 @@
 https://github.com/LepingWang/CharterAssessment
 
 [Click Here](https://github.com/LepingWang/CharterAssessment)
-# Web API for Assessment
-API in folder *CharterAssessment* 
+# Web API
 
 Transaction data stored in **Orders.Infrastructure.Data.TransactionData.txt**
 ## 1.AllRewards
